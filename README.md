@@ -210,6 +210,6 @@
   <footer>
     &copy; 2025 The Best Times Travel Company | All rights reserved
   </footer>
-
+<a href="contact.html">Contact</a>
 </body>
 </html>
