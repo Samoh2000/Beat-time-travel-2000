@@ -144,7 +144,7 @@
     <a href="#home">Home</a>
     <a href="#about">About</a>
     <a href="#services">Services</a>
-    <a href="#contact">Contact</a>
+    <a href="contact.html">Contact</a>
     <a href="#booking">Booking</a>
   </nav>
 
@@ -210,6 +210,6 @@
   <footer>
     &copy; 2025 The Best Times Travel Company | All rights reserved
   </footer>
-<a href="contact.html">Contact</a>
+  
 </body>
 </html>
